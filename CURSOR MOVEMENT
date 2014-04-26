@@ -1,0 +1,6 @@
+CURSOR MOVEMENT
+_______________
+
+arrow(u/d/l/r) == l/r
+alt, arrow(u/d/l/r) == extreme u/d/l/r
+option, arrow(l/r) == word

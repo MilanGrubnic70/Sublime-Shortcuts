@@ -1,0 +1,8 @@
+LINE SELECTION
+______________
+
+CURSOR MOVEMENT + shift
+command, l == entire line
+command, d == select next instance
+control, command, g == select all instance
+option, click && drag == multiple cursors
