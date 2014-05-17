@@ -4,21 +4,24 @@ ____________
 
 YAMIHERE? 
 *********
--Fuck mice
--Fuck sudoku
--Fuck flashcards
--Fuck checkers
--Fuck whatigot
+-Mice suck
+
 
 PUSH YOURSELF
 *************
 -Add a new shortcut each day
+
 -Think about how you are typing:
-	*Does this keystroke feel akward? If yes, could be restructured.
-	*I wish I could... probably a way to make a keystroke for that.
-	*Am I looking at my keyboard? If yes, don't do that.
-	*Are you using both command, option, and SHIFT keys?
+	*  It's really hard to hit these buttons... Room for changing keystroke
+
+	*  I wish I could... Probably a way to make a keystroke for that.
+
+	*  Am I looking at my keyboard? If yes, don't do that.
+
+	*  Are you using both command, option, and SHIFT keys?
+
 -Am I defaulting to less efficient keystrokes?
+
 -Keys are buttons, chain them together and you get action : think in actions
 	
 

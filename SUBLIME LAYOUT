@@ -1,9 +1,0 @@
-SUBLIME LAYOUT
-______________
-
-command, n == new tab
-command, w  == close tab
-command, option, 2..4 == 2..4 column
-command, option, shift, 2..3== 2..3 row
-command, option, 5 == grid
-command, k, b  == minimize bar
