@@ -37,4 +37,9 @@ command, h == hide active window
 (hold)command, (tap-cycle-select)tab, (select hidden window) h == unhide window
 (hold)command, (tap-cycle-select)tab, (select minimized window, (hold)option)(release)command == unminimize window
 
+CREATING TERMINAL SHORTCUTS TO SUBLIME
+**************************************
+PASTE INTO TERMINAL: open -a "Sublime Text" ~/.bash_profile
+PASE INTO FILE: alias subl="open -a 'Sublime Text'"
+
 

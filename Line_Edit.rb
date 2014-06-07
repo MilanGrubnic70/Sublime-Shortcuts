@@ -2,17 +2,17 @@ LINE EDIT
 _________
 
 ACTION              											 KEYSTROKE
-======																		===========
-Delete Previous Character									fn, delete
+======															===========
+Delete Previous Character										fn, delete
 
-Move Entire Line  									command, control, arrow(u/d),
-																			   (optional shift)
+Move Entire LINE  									command, control, arrow(u/d),
+															   (optional shift)
 
-Delete Right of cursor      						command, k, k
+Delete Right of cursor      									command, k, k
 
-Duplicate Current Line 		 						shift, command, d
+Duplicate Current Line 				 						shift, command, d
 
 Toggle Commenting 												command, /
 
-Indenting 															command, [ or ]
+Indenting 														command, [ or ]
 
