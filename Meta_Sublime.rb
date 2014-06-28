@@ -2,7 +2,7 @@ META SUBLIME
 ____________
 
 
-YAMIHERE? 
+WHYAMIHERE? 
 *********
 -Mice suck
 
@@ -40,6 +40,6 @@ command, h == hide active window
 CREATING TERMINAL SHORTCUTS TO SUBLIME
 **************************************
 PASTE INTO TERMINAL: open -a "Sublime Text" ~/.bash_profile
-PASE INTO FILE: alias subl="open -a 'Sublime Text'"
+PASTE INTO BASH PROFILE: alias subl="open -a 'Sublime Text'"
 
 

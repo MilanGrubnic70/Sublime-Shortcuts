@@ -1,17 +1,17 @@
 LINE SELECTION
 ______________
 
-ACTION              									 KEYSTROKE
-======													===========
-Select Specific Area							 Use any Cursor Movement + shift
+ACTION              														 KEYSTROKE
+======												       					 ===========
+Select Specific Area														 shift + arrow
 
-Select Entire Line                         				command, l
+Select Entire Line                         				command + l
 
-Select Next Instance                      				 command, d
+*Select Next Instance                      				 command + d
 
-Select All Instances	                			 control, command, g
+Select All Instances	                			 control + command + g
 
-Multiple cursors                     				 Option, Click && Drag
+*Multiple cursors                     				 Option + Click && Drag
 
 
 
@@ -20,7 +20,7 @@ Practice Drill:
 *****************************************
 Action: Select Specific Area
 
-Instruction: Select the 2 middle paragraphs from the beginning.
+Instruction: Select the 2 middle paragraphs from the beginning without mouse.
 
 Drill:
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 

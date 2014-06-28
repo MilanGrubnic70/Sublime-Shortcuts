@@ -2,23 +2,26 @@
 *LINE EDIT*
 ***********
 
-ACTION              											 KEYSTROKE
-======															===========
-Delete Previous Character										fn, delete
+ACTION              											   KEYSTROKE
+======															        ===========
+Delete All Previous Characters              alt/option + delete
+in that word
 
-Move Entire LINE  									command, control, arrow(u/d),
-															   (optional shift)
+*Delete The Character Right of Cursor				fn + delete
 
+Delete Everything Right of Cursor      		 	command, k, k
 
-Delete Right of cursor      									command, k, k
+*Move Entire LINE  									command + control + arrow(u/d),													   		
 
 Duplicate Current Line 				 						shift, command, d
 
-Indenting 															command, [ or ]
+*Indenting 															command + [ or ]
+																						  tab
+																					shift + tab
 
-Toggle Commenting 												command, /
+*Toggle Commenting 												command + /
 
-Indenting 														command, [ or ]
+
 =======
 / #IGNORE
 

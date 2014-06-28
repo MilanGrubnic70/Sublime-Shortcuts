@@ -3,10 +3,10 @@ __________________
 
 ACTION              											 KEYSTROKE
 ======																		===========
-Switch Tabs 													command, option, arrow(l/r)
+*Switch Tabs 													command + option + arrow(l/r)
 
-Search Bar (YOUR BEST FRIEND)							 command, p
+*Search Bar                							 command + p
 
-Select Quadrant 													control, [1,2,3,4]
+Select Quadrant 													control + [1,2,3,4]
 
-Move File to Quadrant									control, shift, [1,2,3,4]
+Move File to Quadrant									control + shift + [1,2,3,4]
